@@ -1,9 +1,9 @@
 # Excel Task Performance Analysis - Portfolio Project
 
-A polished, Excel-based project management and financial analysis dashboard designed to showcase my ability to turn data into clear, actionable insights for cross-functional teams and leadership.
+A polished, Excel-based project management and financial analysis designed to showcase my ability to turn data into clear, actionable insights for cross-functional teams and leadership.
 
 ## Project overview
-This project demonstrates a real-world dashboard built in Excel that tracks departmental tasks, budgets, timelines, and performance metrics. It is intended as a portfolio piece for recruiters and hiring managers to see how I structure data and create visualizations that drive decision-making.
+This project demonstrates a real-world analysis scenario built in Excel that tracks departmental tasks, budgets, timelines, and performance metrics. It is intended as a portfolio piece for recruiters and hiring managers to see how I structure data and create visualizations that drive decision-making.
 
 Snapshots from the dashboard:
 
